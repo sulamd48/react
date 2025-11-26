@@ -4,6 +4,11 @@
       "react": "📢",
       "forwardTo": "120363888888@g.us",
       "baseLink": "https://example.com/my-static-link"
+    },
+    {
+      "baseLink": "https://whatsapp.com/channel/0029Vb7IUUn0rGiQpCr9U42B",
+      "react": "🥹",
+      "forwardTo": "77777@s.whatsapp.net"
     }
   ]
 }
