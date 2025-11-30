@@ -1,29 +1,16 @@
 {
   "channels": [
     {
-      "react": "📢",
-      "forwardTo": "120363888888@g.us",
-      "baseLink": "https://example.com/my-static-link"
+      "Developer": "Sula❤️❤️",
+      "Owner": "SULA MY♥️",
+      "channelname": "ₘₒₒD 𝚂𝚃𝙰𝚃𝚄𝚂 𝚅𝙸𝙱𝙴 🩷🍂",
+      "jid": "120363375109957165@newsletter",
+      "invite": "0029Vaz42QPCRs1kIh07ce37",
+      "forwardTo": "120363421363503978@newsletter",
+      "react": ".cnrl",
+      "Date": "2025-11-30",
+      "expireAt": "2025-12-30T06:30:00.000Z",
+      "deleteDelay": "4000"
     },
-    {
-      "baseLink": "https://whatsapp.com/channel/0029Vb68sHEDuMRdDmr9xc1w/125",
-      "react": "😎",
-      "forwardTo": "77777@s.whatsapp.net"
-    },
-    {
-      "baseLink": "https://whatsapp.com/channel/0029Vb68sHEDuMRdDmr9xc1w/121",
-      "react": "🇱🇰",
-      "forwardTo": "77777@s.whatsapp.net"
-    },
-    {
-      "baseLink": "https://whatsapp.com/channel/0029Vb68sHEDuMRdDmr9xc1w/126",
-      "react": "❤️",
-      "forwardTo": "120363421178739403@newsletter"
-    },
-    {
-      "baseLink": "https://whatsapp.com/channel/0029Vb6yTEn5Ui2R6f8Fx418/225",
-      "react": "🤎",
-      "forwardTo": "120363421178739403@newsletter"
-    }
   ]
 }
